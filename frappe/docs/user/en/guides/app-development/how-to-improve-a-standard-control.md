@@ -10,7 +10,7 @@ The answer for this question is: _-Of course not! Because we know that if one el
 
 So, what we need do, is improve your goal based on the `Control`, to reduce our quantity of work.
 
-But, where will we find this magic element, the control? _-For now, we can look it in the JavaScript sources - let's look now at [Github](https://github.com/frappe/frappe/blob/develop/frappe/public/js/frappe/form/control.js#L13)_
+But, where will we find this magic element, the control? _-For now, we can look it in the JavaScript sources - let's look now at [Github](https://github.com/sabbir360/frappe/blob/develop/frappe/public/js/frappe/form/control.js#L13)_
 
 &gt; Don't worry if you don't understand the code for now, our goal there is simplify our work.
 

@@ -44,7 +44,7 @@ In the `.py` file you can add the script for generating the report.
 1. In the `execute` method, two lists `columns` and `data` are returned
 2. Columns must be a list of labels in the same format as query report. **[Label]:[Field Type]/[Options]:[Width]**. For example `Item:Link/Item:150`
 3. You can use all server side modules to build your report.
-4. For example see existing reports. ([Balance Sheet](https://github.com/frappe/erpnext/blob/develop/erpnext/accounts/report/balance_sheet/balance_sheet.py))
+4. For example see existing reports. ([Balance Sheet](https://github.com/sabbir360/erpnext/blob/develop/erpnext/accounts/report/balance_sheet/balance_sheet.py))
 
 ### 4. Commit and Push the app
 

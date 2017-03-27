@@ -126,7 +126,7 @@ It’s designed for the CI Jenkins, but will work for anything else that underst
 
 ### 3.1. Writing DocType Tests:
 
-1. Records that are used for testing are stored in a file `test_records.json` in the doctype folder. [For example see the Event Tests](https://github.com/frappe/frappe/blob/develop/frappe/core/doctype/event/test_records.json).
+1. Records that are used for testing are stored in a file `test_records.json` in the doctype folder. [For example see the Event Tests](https://github.com/sabbir360/frappe/blob/develop/frappe/core/doctype/event/test_records.json).
 1. Test cases are in a file named `test_[doctype].py`
 1. To provide the test records (and dependencies) call `test_records = frappe.get_test_records('Event')` in your test case file.
 
@@ -202,4 +202,4 @@ It’s designed for the CI Jenkins, but will work for anything else that underst
 
 This feature is still under development.
 
-For an example see, [https://github.com/frappe/erpnext/blob/develop/erpnext/tests/sel_tests.py](https://github.com/frappe/erpnext/blob/develop/erpnext/tests/sel_tests.py)
+For an example see, [https://github.com/sabbir360/erpnext/blob/develop/erpnext/tests/sel_tests.py](https://github.com/sabbir360/erpnext/blob/develop/erpnext/tests/sel_tests.py)

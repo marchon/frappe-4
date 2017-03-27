@@ -4,7 +4,7 @@
 
 {{ app.title }} is based on the <a href="https://frappe.io">Frappe Framework</a>, a full stack web framework based on Python, MariaDB, Redis, Node.
 
-To intall {{ app.title }}, you will have to install the <a href="https://github.com/frappe/bench">Frappe Bench</a>, the command-line, package manager and site manager for Frappe Framework. For more details, read the Bench README.
+To intall {{ app.title }}, you will have to install the <a href="https://github.com/sabbir360/bench">Frappe Bench</a>, the command-line, package manager and site manager for Frappe Framework. For more details, read the Bench README.
 
 After you have installed Frappe Bench, go to you bench folder, which is     `frappe.bench` by default and setup **{{ app.name }}**.
 

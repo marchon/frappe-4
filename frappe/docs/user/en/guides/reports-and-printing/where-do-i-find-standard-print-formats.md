@@ -29,7 +29,7 @@ Go to <b>Setup &gt; Customize &gt; Customize Form View </b>and you can:
     </li>
 </ol>
 <hr>
-<p><b>Tip: You can import <a href="https://github.com/frappe/frappe/blob/develop/frappe/templates/print_formats/standard_macros.html" target="_blank">Standard Template macros</a> for building your print formats.</b>
+<p><b>Tip: You can import <a href="https://github.com/sabbir360/frappe/blob/develop/frappe/templates/print_formats/standard_macros.html" target="_blank">Standard Template macros</a> for building your print formats.</b>
 
 </p>
 <p>Example, adding the standard header:

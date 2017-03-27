@@ -82,6 +82,6 @@ Parameters to the custom method are:
 
 For more examples see:
 
-[https://github.com/frappe/erpnext/blob/develop/erpnext/controllers/queries.py](https://github.com/frappe/erpnext/blob/develop/erpnext/controllers/queries.py)
+[https://github.com/sabbir360/erpnext/blob/develop/erpnext/controllers/queries.py](https://github.com/sabbir360/erpnext/blob/develop/erpnext/controllers/queries.py)
 
 <!-- markdown -->

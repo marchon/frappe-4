@@ -8,11 +8,11 @@ Install pre-requisites,
 * [Redis](http://redis.io/topics/quickstart)
 * [WKHTMLtoPDF with patched QT](http://wkhtmltopdf.org/downloads.html) (required for pdf generation)
 
-[Installing pre-requisites on OSX](https://github.com/frappe/bench/wiki/Installing-Bench-Pre-requisites-on-MacOSX)
+[Installing pre-requisites on OSX](https://github.com/sabbir360/bench/wiki/Installing-Bench-Pre-requisites-on-MacOSX)
 
 Install bench as a *non root* user,
 
-		git clone https://github.com/frappe/bench bench-repo
+		git clone https://github.com/sabbir360/bench bench-repo
 		sudo pip install -e bench-repo
 
 Note: Please do not remove the bench directory the above commands will create
@@ -21,9 +21,9 @@ Note: Please do not remove the bench directory the above commands will create
 Migrating from existing installation
 ------------------------------------
 
-If want to migrate from ERPNext version 3, follow the instructions [here](https://github.com/frappe/bench/wiki/Migrating-from-ERPNext-version-3)
+If want to migrate from ERPNext version 3, follow the instructions [here](https://github.com/sabbir360/bench/wiki/Migrating-from-ERPNext-version-3)
 
-If want to migrate from the old bench, follow the instructions [here](https://github.com/frappe/bench/wiki/Migrating-from-old-bench)
+If want to migrate from the old bench, follow the instructions [here](https://github.com/sabbir360/bench/wiki/Migrating-from-old-bench)
 
 
 Basic Usage
@@ -41,11 +41,11 @@ Basic Usage
 
 	The get-app command gets and installs frappe apps. Examples:
 	
-	- [erpnext](https://github.com/frappe/erpnext)
-	- [erpnext_shopify](https://github.com/frappe/erpnext_shopify)
-	- [paypal_integration](https://github.com/frappe/paypal_integration)
+	- [erpnext](https://github.com/sabbir360/erpnext)
+	- [erpnext_shopify](https://github.com/sabbir360/erpnext_shopify)
+	- [paypal_integration](https://github.com/sabbir360/paypal_integration)
 	
-	bench get-app erpnext https://github.com/frappe/erpnext
+	bench get-app erpnext https://github.com/sabbir360/erpnext
 
 * Add site
 

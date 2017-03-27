@@ -4,7 +4,7 @@ In version 4.1 we introduce Report Print Formats. These are HTML templates that 
 
 ### 1. Creating New Print Formats
 
-To create a new Print Format, just drop in a `.html` file in the folder of the query report. For example, for the [General Ledger](https://github.com/frappe/erpnext/tree/develop/erpnext/accounts/report/general_ledger) report in ERPNext, you can drop in a file called `general_ledger.html` along side the `.js` and `.py` files.
+To create a new Print Format, just drop in a `.html` file in the folder of the query report. For example, for the [General Ledger](https://github.com/sabbir360/erpnext/tree/develop/erpnext/accounts/report/general_ledger) report in ERPNext, you can drop in a file called `general_ledger.html` along side the `.js` and `.py` files.
 
 ##### Tree Of `erpnext/accounts/general_ledger`
 
@@ -54,7 +54,7 @@ Data is available to the template as:
 
 Here is how the General Ledger Report is built:
 
-[General Ledger Print Format Template](https://github.com/frappe/erpnext/blob/develop/erpnext/accounts/report/general_ledger/general_ledger.html)
+[General Ledger Print Format Template](https://github.com/sabbir360/erpnext/blob/develop/erpnext/accounts/report/general_ledger/general_ledger.html)
 
 Here is what the report looks like:
 
